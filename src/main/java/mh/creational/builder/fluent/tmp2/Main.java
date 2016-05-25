@@ -1,4 +1,4 @@
-package mh.creational.builder.fluent;
+package mh.creational.builder.fluent.tmp2;
 
 public class Main {
 

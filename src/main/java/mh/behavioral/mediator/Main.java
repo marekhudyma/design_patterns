@@ -1,5 +1,14 @@
 package mh.behavioral.mediator;
 
+// Mediator
+// when we have many objects that affect each other’s state change
+// - in this case usage of observer would provide chaos
+// - everyone is Observer and Observable
+// - logic distributed in many events and object is not flexible for changes
+// - Mediator: object recieve all information about changes and decide who should be notified
+// - All login in one place
+// - Mediator makes modeling easier
+// - objects don’t know each other – they know only mediator
 public class Main {
 
     public static void main(String[] args) {

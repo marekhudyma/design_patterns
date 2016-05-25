@@ -1,4 +1,4 @@
-package xxx;
+package mh.creational.builder.fluent.tmp1;
 
 public abstract class Entity1 {
     protected int id;

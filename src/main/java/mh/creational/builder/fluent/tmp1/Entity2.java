@@ -1,4 +1,4 @@
-package xxx;
+package mh.creational.builder.fluent.tmp1;
 
 public class Entity2 extends Entity1 {
     private int url;

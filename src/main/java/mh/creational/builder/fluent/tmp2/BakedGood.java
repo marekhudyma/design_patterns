@@ -1,4 +1,4 @@
-package mh.creational.builder.fluent;
+package mh.creational.builder.fluent.tmp2;
 
 public abstract class BakedGood<CHILD extends BakedGood<CHILD>> {
 

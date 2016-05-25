@@ -1,18 +1,13 @@
-package xxx;
+package mh.creational.builder.fluent.tmp1;
 
-import org.junit.Test;
+public class Main {
 
-public class Entity1Test {
+    public static void main(String[] args) {
 
-    @Test
-    public void xxx() {
         Entity2 entity2 = new Entity2.Builder()
                 .withId(1)
                 .withUrl(2)
                 .withId(1)
                 .build();
     }
-
-
-
 }
