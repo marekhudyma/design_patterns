@@ -1,0 +1,13 @@
+Bridge is like Adapter – convert one interface to another – but there were different intentions !
+Adapter creates an interface for existing class so it looks like different class.
+Bridge separate interface from implementation. We can change implementation without changing code that use it.
+
+- we use it on early stage of project, when we don’t know interface nor implementation,
+- separate abstraction from implementation, we can develop both independently,
+- abstraction define general view of object
+- action is transfered to implementation
+- it is similar to Adapter
+Bridge usage
+- during designing,
+- when we don’t know what would be the functionality
+- when we want to make independent API and implementation

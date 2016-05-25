@@ -1,0 +1,13 @@
+Proxy
+- Proxy is similar to Adapter and Facade but is built in different purpose
+
+- object has the same interface as object that is invoked, but we override it,
+- client uses Proxy, but he doesn’t know that is not real object,
+- Proxy delegate invocation to real object and return value of invocation,
+
+Proxy Usage:
+- Remote Proxy
+- invocation is delivered by network to real object (for example RMI or Webservices),
+- Virtual Proxy
+- during loading real object, for example during loading image,
+- Protection Proxy - check permissions before share object
