@@ -2,7 +2,7 @@ package mh.behavioral.state;
 
 // State
 // - we use State when functionality of object depends on his state
-// - Instead of implementing methds:
+// - Instead of implementing methods:
 // -if stateA execute .., if stateB execute …
 // - create an interface State and as many implementation as many there is states.
 // - client works with class Context, which delegates invocations to the proper implementation of State

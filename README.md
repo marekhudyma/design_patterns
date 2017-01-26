@@ -13,7 +13,7 @@
 <br />
 <br />4) Single Responsibility – one interface, one way of growing
 <br />
-<br />5) Liskov’s Substitution – generally Class that extens can be put in place of base class and everything should work correctly.
+<br />5) Liskov’s Substitution – generally Class that extends can be put in place of base class and everything should work correctly.
 <br />
 <br />
 <br />

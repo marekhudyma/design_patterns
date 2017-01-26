@@ -6,7 +6,7 @@ import mh.behavioral.visitor.computerPart.Visitable;
 // - You can add new functionality without changing classes code
 // - You collect all possibilities in one place
 // Disadvantages:
-// visitor sometimes need to have acces to internal state (than you need to relax encapsulation)
+// visitor sometimes need to have access to internal state (than you need to relax encapsulation)
 public class Main {
 
     public static void main(String[] args) {
